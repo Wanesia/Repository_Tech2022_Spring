@@ -1,0 +1,17 @@
+
+1.Microsoft SQL Server
+2.Oracle Database
+3.Amazon Relational Database Service (RDS)
+4.MySQL
+5.SAP HANA
+6.PostgreSQL
+
+
+Document Databases-MongoDB
+Key-Value Stores-Aerospike
+Column-Oriented Databases-MariaDB
+Graph Databases-Neo4j
+
+memory databases
+1.Aerospike DBS
+2.ALTIBASE HDB
